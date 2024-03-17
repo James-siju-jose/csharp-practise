@@ -1,0 +1,22 @@
+## git commands
+
+# clone a Git repo
+$ git clone <get the link from github>
+
+# check status
+$ git status
+
+# get latest code from github
+$ git pull
+
+# add a file
+$ git add <file_name>
+
+WORK ON THE FILE NOW
+TIME TO COMMIT
+
+# commit code
+$ git commit -m "short message about what you did"
+
+# push the code to git hub
+$ git push origin -u

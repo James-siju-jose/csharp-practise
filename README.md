@@ -1,2 +1,4 @@
 # csharp-practise
-Code to pracrtise
+Code to practise C# AND SQL
+FOR C# MAKE A FILE AND THEN USE DOTNET NEW CONSOLE 
+YOU ALSO NEED TO DONWLOAD THE  C# AND .NET SDK EXTENSION FILES
