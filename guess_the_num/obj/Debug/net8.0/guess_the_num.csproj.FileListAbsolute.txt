@@ -1,0 +1,15 @@
+C:\Users\sijuj\CODE\csharp-practise\guess_the_num\bin\Debug\net8.0\guess_the_num.exe
+C:\Users\sijuj\CODE\csharp-practise\guess_the_num\bin\Debug\net8.0\guess_the_num.deps.json
+C:\Users\sijuj\CODE\csharp-practise\guess_the_num\bin\Debug\net8.0\guess_the_num.runtimeconfig.json
+C:\Users\sijuj\CODE\csharp-practise\guess_the_num\bin\Debug\net8.0\guess_the_num.dll
+C:\Users\sijuj\CODE\csharp-practise\guess_the_num\bin\Debug\net8.0\guess_the_num.pdb
+C:\Users\sijuj\CODE\csharp-practise\guess_the_num\obj\Debug\net8.0\guess_the_num.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sijuj\CODE\csharp-practise\guess_the_num\obj\Debug\net8.0\guess_the_num.AssemblyInfoInputs.cache
+C:\Users\sijuj\CODE\csharp-practise\guess_the_num\obj\Debug\net8.0\guess_the_num.AssemblyInfo.cs
+C:\Users\sijuj\CODE\csharp-practise\guess_the_num\obj\Debug\net8.0\guess_the_num.csproj.CoreCompileInputs.cache
+C:\Users\sijuj\CODE\csharp-practise\guess_the_num\obj\Debug\net8.0\guess_the_num.sourcelink.json
+C:\Users\sijuj\CODE\csharp-practise\guess_the_num\obj\Debug\net8.0\guess_the_num.dll
+C:\Users\sijuj\CODE\csharp-practise\guess_the_num\obj\Debug\net8.0\refint\guess_the_num.dll
+C:\Users\sijuj\CODE\csharp-practise\guess_the_num\obj\Debug\net8.0\guess_the_num.pdb
+C:\Users\sijuj\CODE\csharp-practise\guess_the_num\obj\Debug\net8.0\guess_the_num.genruntimeconfig.cache
+C:\Users\sijuj\CODE\csharp-practise\guess_the_num\obj\Debug\net8.0\ref\guess_the_num.dll

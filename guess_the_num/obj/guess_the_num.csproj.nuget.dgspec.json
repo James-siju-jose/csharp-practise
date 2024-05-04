@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sijuj\\CODE\\csharp-practise\\geuss_the_number\\geuss_the_number.csproj": {}
+    "C:\\Users\\sijuj\\CODE\\csharp-practise\\guess_the_num\\guess_the_num.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sijuj\\CODE\\csharp-practise\\geuss_the_number\\geuss_the_number.csproj": {
+    "C:\\Users\\sijuj\\CODE\\csharp-practise\\guess_the_num\\guess_the_num.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sijuj\\CODE\\csharp-practise\\geuss_the_number\\geuss_the_number.csproj",
-        "projectName": "geuss_the_number",
-        "projectPath": "C:\\Users\\sijuj\\CODE\\csharp-practise\\geuss_the_number\\geuss_the_number.csproj",
+        "projectUniqueName": "C:\\Users\\sijuj\\CODE\\csharp-practise\\guess_the_num\\guess_the_num.csproj",
+        "projectName": "guess_the_num",
+        "projectPath": "C:\\Users\\sijuj\\CODE\\csharp-practise\\guess_the_num\\guess_the_num.csproj",
         "packagesPath": "C:\\Users\\sijuj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sijuj\\CODE\\csharp-practise\\geuss_the_number\\obj\\",
+        "outputPath": "C:\\Users\\sijuj\\CODE\\csharp-practise\\guess_the_num\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sijuj\\AppData\\Roaming\\NuGet\\NuGet.Config"
