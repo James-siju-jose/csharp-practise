@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("geuss_the_number")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3dff3521ef5b876c80881097187354bcdbfb61a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48022d1943c02237a904696c365e5f700238d45e")]
 [assembly: System.Reflection.AssemblyProductAttribute("geuss_the_number")]
 [assembly: System.Reflection.AssemblyTitleAttribute("geuss_the_number")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
