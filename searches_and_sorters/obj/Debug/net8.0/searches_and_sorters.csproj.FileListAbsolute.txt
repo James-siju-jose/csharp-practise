@@ -1,0 +1,15 @@
+C:\Users\sijuj\csharp-practise\csharp-practise\searches_and_sorters\bin\Debug\net8.0\searches_and_sorters.exe
+C:\Users\sijuj\csharp-practise\csharp-practise\searches_and_sorters\bin\Debug\net8.0\searches_and_sorters.deps.json
+C:\Users\sijuj\csharp-practise\csharp-practise\searches_and_sorters\bin\Debug\net8.0\searches_and_sorters.runtimeconfig.json
+C:\Users\sijuj\csharp-practise\csharp-practise\searches_and_sorters\bin\Debug\net8.0\searches_and_sorters.dll
+C:\Users\sijuj\csharp-practise\csharp-practise\searches_and_sorters\bin\Debug\net8.0\searches_and_sorters.pdb
+C:\Users\sijuj\csharp-practise\csharp-practise\searches_and_sorters\obj\Debug\net8.0\searches_and_sorters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sijuj\csharp-practise\csharp-practise\searches_and_sorters\obj\Debug\net8.0\searches_and_sorters.AssemblyInfoInputs.cache
+C:\Users\sijuj\csharp-practise\csharp-practise\searches_and_sorters\obj\Debug\net8.0\searches_and_sorters.AssemblyInfo.cs
+C:\Users\sijuj\csharp-practise\csharp-practise\searches_and_sorters\obj\Debug\net8.0\searches_and_sorters.csproj.CoreCompileInputs.cache
+C:\Users\sijuj\csharp-practise\csharp-practise\searches_and_sorters\obj\Debug\net8.0\searches_and_sorters.sourcelink.json
+C:\Users\sijuj\csharp-practise\csharp-practise\searches_and_sorters\obj\Debug\net8.0\searches_and_sorters.dll
+C:\Users\sijuj\csharp-practise\csharp-practise\searches_and_sorters\obj\Debug\net8.0\refint\searches_and_sorters.dll
+C:\Users\sijuj\csharp-practise\csharp-practise\searches_and_sorters\obj\Debug\net8.0\searches_and_sorters.pdb
+C:\Users\sijuj\csharp-practise\csharp-practise\searches_and_sorters\obj\Debug\net8.0\searches_and_sorters.genruntimeconfig.cache
+C:\Users\sijuj\csharp-practise\csharp-practise\searches_and_sorters\obj\Debug\net8.0\ref\searches_and_sorters.dll
