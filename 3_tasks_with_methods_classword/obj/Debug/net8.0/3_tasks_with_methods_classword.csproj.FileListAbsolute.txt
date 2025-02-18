@@ -1,0 +1,15 @@
+C:\Users\sijuj\csharp-practise\csharp-practise\3_tasks_with_methods_classword\bin\Debug\net8.0\3_tasks_with_methods_classword.exe
+C:\Users\sijuj\csharp-practise\csharp-practise\3_tasks_with_methods_classword\bin\Debug\net8.0\3_tasks_with_methods_classword.deps.json
+C:\Users\sijuj\csharp-practise\csharp-practise\3_tasks_with_methods_classword\bin\Debug\net8.0\3_tasks_with_methods_classword.runtimeconfig.json
+C:\Users\sijuj\csharp-practise\csharp-practise\3_tasks_with_methods_classword\bin\Debug\net8.0\3_tasks_with_methods_classword.dll
+C:\Users\sijuj\csharp-practise\csharp-practise\3_tasks_with_methods_classword\bin\Debug\net8.0\3_tasks_with_methods_classword.pdb
+C:\Users\sijuj\csharp-practise\csharp-practise\3_tasks_with_methods_classword\obj\Debug\net8.0\3_tasks_with_methods_classword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sijuj\csharp-practise\csharp-practise\3_tasks_with_methods_classword\obj\Debug\net8.0\3_tasks_with_methods_classword.AssemblyInfoInputs.cache
+C:\Users\sijuj\csharp-practise\csharp-practise\3_tasks_with_methods_classword\obj\Debug\net8.0\3_tasks_with_methods_classword.AssemblyInfo.cs
+C:\Users\sijuj\csharp-practise\csharp-practise\3_tasks_with_methods_classword\obj\Debug\net8.0\3_tasks_with_methods_classword.csproj.CoreCompileInputs.cache
+C:\Users\sijuj\csharp-practise\csharp-practise\3_tasks_with_methods_classword\obj\Debug\net8.0\3_tasks_with_methods_classword.sourcelink.json
+C:\Users\sijuj\csharp-practise\csharp-practise\3_tasks_with_methods_classword\obj\Debug\net8.0\3_tasks_with_methods_classword.dll
+C:\Users\sijuj\csharp-practise\csharp-practise\3_tasks_with_methods_classword\obj\Debug\net8.0\refint\3_tasks_with_methods_classword.dll
+C:\Users\sijuj\csharp-practise\csharp-practise\3_tasks_with_methods_classword\obj\Debug\net8.0\3_tasks_with_methods_classword.pdb
+C:\Users\sijuj\csharp-practise\csharp-practise\3_tasks_with_methods_classword\obj\Debug\net8.0\3_tasks_with_methods_classword.genruntimeconfig.cache
+C:\Users\sijuj\csharp-practise\csharp-practise\3_tasks_with_methods_classword\obj\Debug\net8.0\ref\3_tasks_with_methods_classword.dll

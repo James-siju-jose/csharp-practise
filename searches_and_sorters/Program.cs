@@ -99,8 +99,6 @@ Console.WriteLine("\n");
 Console.WriteLine("Sorting");
 Bubble_st();
 }
-
-
 }
 }
 

@@ -1,0 +1,16 @@
+{
+    "C_Cpp.default.compilerPath": "C:\\MinGW\\bin\\g++.exe",
+    "C_Cpp.errorSquiggles": "enabled", // Enable error squiggles
+    "C_Cpp.intelliSenseEngine": "Default",
+    "C_Cpp.default.intelliSenseMode": "gcc-x64",
+    "C_Cpp.default.includePath": [
+        "C:\\MinGW\\include",
+        "${workspaceFolder}/**"
+    ],
+    "C_Cpp.default.defines": [],
+    "files.associations": {
+        ".fantomasignore": "ignore",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}
