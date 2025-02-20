@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sijuj\\csharp-practise\\csharp-practise\\3_tasks_with_methods_classword\\3_tasks_with_methods_classword.csproj": {}
+    "c:\\Users\\sijuj\\csharp-practise\\csharp-practise\\3_tasks_with_methods_classword\\3_tasks_with_methods_classword.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sijuj\\csharp-practise\\csharp-practise\\3_tasks_with_methods_classword\\3_tasks_with_methods_classword.csproj": {
+    "c:\\Users\\sijuj\\csharp-practise\\csharp-practise\\3_tasks_with_methods_classword\\3_tasks_with_methods_classword.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sijuj\\csharp-practise\\csharp-practise\\3_tasks_with_methods_classword\\3_tasks_with_methods_classword.csproj",
+        "projectUniqueName": "c:\\Users\\sijuj\\csharp-practise\\csharp-practise\\3_tasks_with_methods_classword\\3_tasks_with_methods_classword.csproj",
         "projectName": "3_tasks_with_methods_classword",
-        "projectPath": "C:\\Users\\sijuj\\csharp-practise\\csharp-practise\\3_tasks_with_methods_classword\\3_tasks_with_methods_classword.csproj",
+        "projectPath": "c:\\Users\\sijuj\\csharp-practise\\csharp-practise\\3_tasks_with_methods_classword\\3_tasks_with_methods_classword.csproj",
         "packagesPath": "C:\\Users\\sijuj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sijuj\\csharp-practise\\csharp-practise\\3_tasks_with_methods_classword\\obj\\",
+        "outputPath": "c:\\Users\\sijuj\\csharp-practise\\csharp-practise\\3_tasks_with_methods_classword\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sijuj\\AppData\\Roaming\\NuGet\\NuGet.Config"
